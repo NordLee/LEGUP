@@ -3,6 +3,7 @@ package edu.rpi.legup.puzzle.battleship;
 import edu.rpi.legup.ui.boardview.GridElementView;
 import java.awt.*;
 
+
 /**
  * The view for a Battleship cell
  */

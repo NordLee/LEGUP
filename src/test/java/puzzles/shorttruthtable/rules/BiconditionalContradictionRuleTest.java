@@ -13,6 +13,7 @@ import legup.TestUtilities;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
 /**
  * Test class for the Biconditional Contradiction Rule.
  */
